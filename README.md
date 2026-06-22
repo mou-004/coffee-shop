@@ -2,8 +2,6 @@
 
 Frontend-only modern coffee brand e-commerce landing page built with **React.js + Vite**, **React Router**, and **Tailwind CSS**.
 
-## Assignment Match
-
 ### Required tech
 - React.js using Vite
 - React Router navigation
